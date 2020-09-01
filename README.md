@@ -1,3 +1,3 @@
-# timobure.github.io
+## timobure.github.io
 
-This is a repo for my blog on dev matters
+This is a repo for my blog codewithtim.com on dev matters
